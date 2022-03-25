@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/LinkedIn-Maeve(yike)-forestgreen)](https://www.linkedin.com/in/yike-shi/)
 [![](https://img.shields.io/badge/Gmail-shiyike0909%40gmail.com-darkgreen)](shiyike0909@gmail.com)
 
-Hi all😄this is Maeve, currently a Master of Data Science student at the University of British Columbia. I obtained my bachelor degree in Applied Mathematics from Sichuan University in 2020.  I had 3 years experience in research fields and now working as a research co-pilot at Visual Cognition Lab of UBC. 
+Hi all, this is Maeve, I'm currently a Master of Data Science student at the University of British Columbia. I obtained my bachelor degree in Applied Mathematics from Sichuan University in 2020 and have nearly 3 years experience in research fields. Now I'm working as a research co-pilot at Visual Cognition Lab of UBC. 
 
 ### Overview
 
