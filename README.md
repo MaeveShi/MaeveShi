@@ -12,25 +12,21 @@ Hi all😄, this is Maeve, currently a Master of Data Science student at the Uni
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaeveShi&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/MaeveShi/github-readme-stats)
 
 ### Projects & Repositories
-- **Developed Python & R packages: a beginner-friendly image processing tool to crop, rotate, compress, or change the color scale of a given image.**
+
+#### Projects
+- **Developed Python & R packages: a beginner-friendly image processing tool to crop, rotate, compress, or change the color scale of a given image.**: 
 You can access the packages from [PYPI](https://pypi.org/project/imghelp/), or visit the repositories: [Imghelp-Python](https://github.com/UBC-MDS/imghelp), [Imghelp-R](https://github.com/UBC-MDS/ImgHelpR)
 
-- **Developed dashboards to illustratively show the video game sales trend in North America and global**:
+- **Developed dashboards to illustratively show the video game sales trend in North America and global**: Click [here](https://video-game-dashboard.herokuapp.com) to visit the website, you can also access source code [here](https://github.com/UBC-MDS/video_game_sales_dashboard).
+
+![demo](https://github.com/UBC-MDS/video_game_sales_dashboard/blob/main/src/fig/demo_py.gif) 
+
+#### Other self-enhancing repositories
+
+- **A comprehensive summary upon SQL and NoSQL**: examples, excercise and tricks to crack different tough cases. Click [here]() to visit.
+- **Statistical inference tools in real trials**: succinct introduction and notes regards to common statistical theories: t-tests, ANOVA test and different types of regression, includes examples of how to conduct those tests in Python or R. Click [here]() to visit.
 
 
 
+Last Updated: Mar 25, 2022.
 
-<!--
-**MaeveShi/MaeveShi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
