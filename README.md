@@ -13,6 +13,9 @@ Hi all, this is Maeve, I'm currently a Master of Data Science student at the Uni
 ### Projects & Repositories
 
 #### Projects
+
+- **Image Classification on 10 monkey species**: Built CNN models from scratch, used transfer learning and _densenet_ as pretrained model and performed fine tuning, build Generative Adversarial Networks and showed the fixed noise passed as the latent vector to the GAN throughout the training process. Repository can be accessed [here](https://github.com/MaeveShi/10-monkey-spieces-classification)
+
 - **Developed Python & R packages: a beginner-friendly image processing tool to crop, rotate, compress, or change the color scale of a given image.**: 
 You can access the packages from [PYPI](https://pypi.org/project/imghelp/), or visit the repositories: [Imghelp-Python](https://github.com/UBC-MDS/imghelp), [Imghelp-R](https://github.com/UBC-MDS/ImgHelpR)
 
@@ -29,5 +32,5 @@ You can access the packages from [PYPI](https://pypi.org/project/imghelp/), or v
 
 
 
-Last Updated: Mar 25, 2022.
+Last Updated: May 15, 2022.
 
